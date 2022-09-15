@@ -1,0 +1,3 @@
+this is version 1 of my project
+this is my commit 2
+this is my commit 3
